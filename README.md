@@ -7,3 +7,7 @@ Editing some sample text
 
 This is an updated content 
 Adding some other text 
+
+branch2
+This is an updated content 
+Adding some other text 
